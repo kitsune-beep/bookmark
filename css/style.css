@@ -34,7 +34,7 @@ img{
     margin-right: 15px;
 }
 p{
-    font-size: 30px;
+    font-size: 25px;
     font-family: monospace;
     color: black;
 }
@@ -105,12 +105,12 @@ h2{
 .sg h2{
    font-size: 42px;
 }
-.sg p{
+.box p{
     font-size: 20px;
     color: black;
     display: flex;
     font-family: monospace;
-    margin: 10px;
+    margin: 5px;
 }
 .nezu a{
     background-color: black;
@@ -119,4 +119,5 @@ h2{
 }
 pre{
     font-family: monospace;
-}    
+    font-size: 30px;
+}
