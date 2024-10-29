@@ -121,3 +121,6 @@ pre{
     font-family: monospace;
     font-size: 30px;
 }
+.res{
+    width:min(100%,950px);
+}
